@@ -13,3 +13,6 @@ Recently completed and planned work is tracked here.
 
 ## [0.1.12](.)
 - Improved descriptions of variables and outputs
+
+## [0.1.13-1000](.)
+- Changed to use `-*` as suffix for pre-release versions
